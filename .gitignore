@@ -12,3 +12,7 @@ target
 docker-compose.override.yml
 docker-lock.json
 oas_worker/devset/evaluations/*
+*.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
