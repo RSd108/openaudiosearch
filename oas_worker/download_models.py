@@ -49,7 +49,7 @@ def download_spacy_models():
 def download_vosk_models():
     models = {
         "vosk-model-spk-0.4": "https://alphacephei.com/vosk/models/vosk-model-spk-0.4.zip",
-        "vosk-model-de-0.21": "https://alphacephei.com/vosk/models/vosk-model-de-0.21.zip",
+        "vosk-model-en-us-0.22": "https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip",
         "vosk-recasepunc-de-0.21": "https://alphacephei.com/vosk/models/vosk-recasepunc-de-0.21.zip"
     }
 
